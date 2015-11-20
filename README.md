@@ -59,7 +59,7 @@ Upgrading this project to work with 1.09 (the final Diablo patch) would require 
 a great deal of work to find and patch all misaligned function addresses. 
 
 The detour functions were written by Dyndrilliac at the gamethreat.net forums. 
-See http://www.gamethreat.net/forums/showthread.php?t=35461&page=2
+See http://www.gamethreat.net/forums/showthread.php?t=35461&page=2&p=635153&viewfull=1#post635153
 
 Notice that in order to run this, you must run DLoader.exe from your Diablo folder. 
 DLoader expects *diabloext.dll* to be in this folder.
